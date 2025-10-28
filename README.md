@@ -657,12 +657,13 @@ print(arima_fit.summary())
 | **Time Series** | Statsmodels (ARIMA) |
 | **ML Metrics** | Scikit-learn |
 | **Environment** | Jupyter Notebook / VS Code |
-| **Dataset Source** | 12 Monthly Sales CSV Files (2019) |
 
 ---
 
 ## 📝 Author
-**Robin Jimmichan P**  
+**Robin Jimmichan Pooppally**  
 [LinkedIn](https://www.linkedin.com/in/robin-jimmichan-pooppally-676061291) | [GitHub](https://github.com/Robi8995)
 
 ---
+
+*This project demonstrates practical retail analytics expertise in demand planning, combining temporal trend analysis and geographic segmentation with ARIMA statistical forecasting to drive measurable improvements in inventory optimization, marketing budget allocation, revenue forecasting accuracy, and operational efficiency through predictive demand intelligence*
