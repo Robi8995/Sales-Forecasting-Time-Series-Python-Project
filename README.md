@@ -10,15 +10,16 @@ A comprehensive Python-based exploratory data analysis and time-series forecasti
 ---
 
 ## 📋 Table of Contents
-1. [Project Objective](#-project-objective)
-2. [Dataset Description](#-dataset-description)
-3. [Key Analysis Steps](#-key-analysis-steps)
-4. [Methodology](#-methodology)
-5. [Key Findings](#-key-findings)
-6. [Business Impact](#-business-impact)
-7. [How to Use](#-how-to-use)
-8. [Visualization Guide](#-visualization-guide)
-9. [Learning Outcomes](#-learning-outcomes)
+
+- [Project Objective](#-project-objective)
+- [Dataset Description](#-dataset-description)
+- [Key Analysis Steps](#-key-analysis-steps)
+- [Methodology](#-methodology)
+- [Key Findings](#-key-findings)
+- [Business Impact](#-business-impact)
+- [How to Use](#-how-to-use)
+- [Visualization Guide](#-visualization-guide)
+-[Learning Outcomes](#-learning-outcomes)
 
 ---
 
