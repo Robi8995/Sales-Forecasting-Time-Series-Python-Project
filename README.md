@@ -16,10 +16,9 @@ A comprehensive Python-based exploratory data analysis and time-series forecasti
 4. [Methodology](#-methodology)
 5. [Key Findings](#-key-findings)
 6. [Business Impact](#-business-impact)
-7. [Output Files](#-output-files)
-8. [How to Use](#-how-to-use)
-9. [Visualization Guide](#-visualization-guide)
-10. [Learning Outcomes](#-learning-outcomes)
+7. [How to Use](#-how-to-use)
+8. [Visualization Guide](#-visualization-guide)
+9. [Learning Outcomes](#-learning-outcomes)
 
 ---
 
@@ -355,43 +354,6 @@ Retail businesses face challenges in accurately predicting future sales, optimiz
 ✅ **Operational Efficiency:** Reduce forecast variance through ARIMA model; minimize planning uncertainty; improve cash flow forecasting and capital allocation decisions
 
 ---
-
-## 📁 Output Files
-
-**CSV Files Generated:**
-
-1. **combined_sales_2019.csv** - Merged dataset from all 12 monthly files
-   - ~185,000 rows with all transactions
-   - Cleaned and validated data with derived features
-
-2. **monthly_sales_summary.csv** - Aggregated monthly sales metrics
-   - Total revenue, transaction count, average transaction value per month
-   - Month-over-month growth rates and seasonal indices
-
-3. **city_performance.csv** - Geographic performance analysis
-   - Total revenue, transaction count, AOV, market share per city
-   - Ranked by revenue for easy benchmarking
-
-4. **product_analysis.csv** - Product performance breakdown
-   - Total revenue, units sold, average price, revenue percentage per product
-   - Ranked by both revenue and volume
-
-5. **arima_forecast.csv** - Time series forecast results
-   - Monthly forecasts with point estimates and confidence intervals
-   - Actual vs. predicted values for model evaluation
-
-**Visualization Files:**
-
-- `monthly_sales_trend.png` - Line chart of sales progression through 2019
-- `city_sales_performance.png` - Bar chart ranking cities by revenue
-- `top_products_revenue.png` - Horizontal bar chart of top 10 products by revenue
-- `top_products_volume.png` - Horizontal bar chart of top 10 products by quantity
-- `city_aov_analysis.png` - Bar chart of Average Order Value by city
-- `acf_plot.png` - Autocorrelation function for ARIMA parameter selection
-- `pacf_plot.png` - Partial autocorrelation function for ARIMA parameter selection
-- `arima_forecast_plot.png` - Train/Test/Forecast overlay visualization
-- `forecast_confidence_bands.png` - Forecast with 95% confidence intervals
-- `residual_diagnostics.png` - Four-panel residual analysis plot
 
 **Python Notebook:**
 - `Retail_Sales_Forecasting_ARIMA.ipynb` - Complete analysis code with outputs
