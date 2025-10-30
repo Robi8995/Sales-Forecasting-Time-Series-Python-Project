@@ -19,7 +19,7 @@ A comprehensive Python-based exploratory data analysis and time-series forecasti
 - [Business Impact](#-business-impact)
 - [How to Use](#-how-to-use)
 - [Visualization Guide](#-visualization-guide)
--[Learning Outcomes](#-learning-outcomes)
+- [Learning Outcomes](#-learning-outcomes)
 
 ---
 
