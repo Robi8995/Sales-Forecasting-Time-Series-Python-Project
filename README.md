@@ -27,7 +27,7 @@ A comprehensive Python-based exploratory data analysis and time-series forecasti
 
 **Objective:** Analyze 12 months of retail sales data across multiple cities and product categories to identify temporal sales patterns, discover top-performing products and markets, understand geographic revenue distribution, and build a predictive ARIMA time-series model for accurate monthly sales forecasting—enabling data-driven inventory management, targeted marketing campaigns, financial planning, and revenue optimization.
 
-**Dataset:** 12 Monthly CSV Files (Jan–Dec 2019) | **Industry:** Retail & E-Commerce Analytics
+**Dataset:** 12 Monthly CSV Files (Jan2019–Dec 2019) | **Industry:** Retail & E-Commerce Analytics
 
 **Problem Statement:**
 
@@ -620,6 +620,7 @@ print(arima_fit.summary())
 | **Time Series** | Statsmodels (ARIMA) |
 | **ML Metrics** | Scikit-learn |
 | **Environment** | Jupyter Notebook / VS Code |
+| **Datasets Used** | Sales_January_2019.csv to Sales_December_2019.csv |
 
 ---
 
